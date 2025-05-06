@@ -2,7 +2,7 @@ import React from "react";
 
 const About = () => {
   return (
-    <section id="about" className="bg-[#FFFBFC] py-16 px-6 md:px-12">
+    <section id="about" className="bg-[#F9FAFB] py-16 px-6 md:px-12">
       <div className="max-w-5xl mx-auto text-center mb-12">
         <h1 className="text-3xl md:text-4xl font-bold text-[#1B2F33] mb-4">
           About Heman Mining Company
